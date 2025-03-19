@@ -40,3 +40,19 @@
 
 🔹 **Topic 1,2 & 3: Gradient Descent, Newton’s Method & BFGS**
 * Optimization Techniques: Implemented scaling in gradient descent, Newton’s method, and BFGS.
+
+**🛠 Tools & Libraries Used**
+
+Programming Language: Python 🐍
+
+**Libraries:**
+
+NumPy → Efficient numerical computations
+
+Matplotlib → Data visualization
+
+Scipy → Optimization algorithms
+
+Pulp → Integer programming
+
+NetworkX → Graph algorithms (Shortest Path)
